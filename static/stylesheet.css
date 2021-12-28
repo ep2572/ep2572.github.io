@@ -8,3 +8,7 @@ body {
 	text-align: center;
 	width: auto;
 }
+
+h1, h2 {
+	font-family: "Arial Rounded MT", "Helvetica Rounded", Arial, sans-serif;
+}
