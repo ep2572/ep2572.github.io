@@ -4,7 +4,7 @@ body {
 }
 
 .card {
-	height: auto;
+	height: 50%;
 	text-align: center;
 	width: auto;
 }
