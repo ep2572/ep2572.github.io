@@ -1,16 +1,33 @@
 {
   "files": {
-    "main.css": "/static/css/main.12a25888.css",
-    "main.js": "/static/js/main.b77e3fe2.js",
+    "main.css": "/static/css/main.761d5685.css",
+    "main.js": "/static/js/main.f90d1a30.js",
     "static/js/787.3e04d42d.chunk.js": "/static/js/787.3e04d42d.chunk.js",
+    "static/media/INK-Fall2013---Table-of-Contents--final.png": "/static/media/INK-Fall2013---Table-of-Contents--final.e5f96cac6bf71a4eedc7.png",
+    "static/media/CUCINA-web-display.png": "/static/media/CUCINA-web-display.8142f8985cf1c0ea1f94.png",
+    "static/media/Aries-at-Ease---Evan-alt.jpg": "/static/media/Aries-at-Ease---Evan-alt.b855d5996f495b99139a.jpg",
+    "static/media/ksbd-cio-fanart.jpg": "/static/media/ksbd-cio-fanart.ae0e5c1e32bf60c82b1a.jpg",
+    "static/media/Ambiance_balanced.jpg": "/static/media/Ambiance_balanced.ba4122cd2e1629d8a812.jpg",
+    "static/media/wt01-01.png": "/static/media/wt01-01.e2fac72b834d65e8d6b8.png",
+    "static/media/Surreal-myth.jpg": "/static/media/Surreal-myth.da137f308e339e390c41.jpg",
+    "static/media/Breathe-1.jpg": "/static/media/Breathe-1.192f4fd36cbe581ed5c2.jpg",
+    "static/media/Gordon's-Batgirl.jpg": "/static/media/Gordon's-Batgirl.1936109458cbc5722d6b.jpg",
+    "static/media/Digital comic 2.jpg": "/static/media/Digital comic 2.92a3332e15e15d70e544.jpg",
+    "static/media/Watercolor comic 1.jpg": "/static/media/Watercolor comic 1.45cd04a82784403b5b07.jpg",
+    "static/media/Scifi-Manolin.jpg": "/static/media/Scifi-Manolin.d37b5e4fcd110f95b557.jpg",
+    "static/media/alex_domi_small.jpg": "/static/media/alex_domi_small.64726b3efe48d6fc95d6.jpg",
+    "static/media/Ink Wash Illustration.png": "/static/media/Ink Wash Illustration.7339bee13f5aa1608eb4.png",
+    "static/media/Scifi-Santiago.jpg": "/static/media/Scifi-Santiago.cc9b6c2437264f5c1b14.jpg",
+    "static/media/the-mimic.jpg": "/static/media/the-mimic.c97074a9815c6a3a88f3.jpg",
+    "static/media/Ink Illustration.png": "/static/media/Ink Illustration.804c53ae9a895b331ac8.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.12a25888.css.map": "/static/css/main.12a25888.css.map",
-    "main.b77e3fe2.js.map": "/static/js/main.b77e3fe2.js.map",
+    "main.761d5685.css.map": "/static/css/main.761d5685.css.map",
+    "main.f90d1a30.js.map": "/static/js/main.f90d1a30.js.map",
     "787.3e04d42d.chunk.js.map": "/static/js/787.3e04d42d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12a25888.css",
-    "static/js/main.b77e3fe2.js"
+    "static/css/main.761d5685.css",
+    "static/js/main.f90d1a30.js"
   ]
 }
